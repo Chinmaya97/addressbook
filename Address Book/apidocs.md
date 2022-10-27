@@ -1,4 +1,4 @@
-# testing postman url linkks 
+# testing postman url links
 # for all users
 >GET request
 >https://localhost:9700/users
